@@ -1,0 +1,5 @@
+kit_id	site	required_items	checked_at	items_present	seal_intact	inspector	check_id	status
+HK-02	Boathouse	4	2101-06-04T10:00:00Z	4	yes	Pia	21	READY
+HK-01	Atrium	6	2101-06-03T09:00:00Z	5	yes	Omar	15	RESTOCK
+HK-04	Workshop	3						UNINSPECTED
+HK-03	Studio	5	2101-06-01T05:00:00Z	3	yes	Ren	30	RESTOCK
