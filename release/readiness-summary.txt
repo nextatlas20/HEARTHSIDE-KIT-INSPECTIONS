@@ -1,0 +1,7 @@
+cutoff=2101-06-05T18:00:00Z
+kits=4
+valid_inspections=5
+ready=1
+restock=2
+uninspected=1
+followup_rows=3
