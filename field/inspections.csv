@@ -1,0 +1,11 @@
+kit_id,checked_at,items_present,seal_intact,inspector,check_id
+HK-01,2101-06-02T08:15:00Z,6,yes,Nora,14
+HK-01,2101-06-03T09:00:00Z,5,yes,Omar,15
+HK-02,2101-06-03T10:00:00Z,4,no,Pia,20
+HK-02,2101-06-04T10:00:00Z,4,yes,Pia,21
+HK-03,2101-06-01T05:00:00Z,3,yes,Ren,30
+HK-03,2101-06-06T05:00:00Z,5,yes,Ren,31
+HK-04,2101-06-04T11:00:00Z,4,yes,Sia,40
+XX-09,2101-06-04T11:00:00Z,2,yes,Sia,41
+HK-01,not-a-time,6,yes,Nora,16
+HK-02,2101-06-04T12:00:00Z,4,maybe,Pia,22

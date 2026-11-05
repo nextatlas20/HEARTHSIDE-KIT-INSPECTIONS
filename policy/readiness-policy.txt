@@ -1,0 +1,1 @@
+Frozen policy note: readiness requires a full item count and an intact seal.

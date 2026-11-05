@@ -1,0 +1,5 @@
+kit_id,site,required_items,display_order
+HK-01,Atrium,6,2
+HK-02,Boathouse,4,1
+HK-03,Studio,5,4
+HK-04,Workshop,3,3
